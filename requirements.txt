@@ -1,0 +1,6 @@
+matplotlib
+PIL
+numpy
+tensorflow
+pprint
+streamlit
