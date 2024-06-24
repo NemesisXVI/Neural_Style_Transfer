@@ -33,7 +33,7 @@ if content_image_file is not None and style_image_file is not None:
     st.sidebar.image(style_image, caption='Style Image', use_column_width=True)
 
     # Taking epochs as input
-    epochs = st.sidebar.number_input("Number of epochs:", min_value=1, max_value=1000, value=10, step=1)
+    epochs = st.sidebar.number_input("Number of epochs:", min_value=1, max_value=100000, value=10, step=1)
 
     # Calling run function from model.py to generate the generated_image.
     if st.sidebar.button('Generate'):
