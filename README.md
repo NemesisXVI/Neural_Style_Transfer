@@ -99,12 +99,22 @@ Neural style transfer (NST) is an algorithmic technique used in computer vision 
 6. **Output**: 
    - The final output is a generated image that preserves the structure of the content image while adopting the artistic style captured from the style image.
 
-## Additional Information
+## Results
+![alt text](images/Generated_Images/Dawn_Sky_masked.jpg) **Dawn Sky** 
+![alt text](images/Generated_Images/WinterWolf-Masked.jpg)
+**Winter Wolf**
+![alt text](images/Generated_Images/blue_moon_lake_1-1_at_iteration_50.jpg)
+**Blue Moon Lake**
+![alt text](images/Generated_Images/ancient_city_multiscale.jpg)
+**Ancient City**
+
+
+## Resources
 1. [Very Deep Convolutional Networks for large scale Image Recognition](https://acrobat.adobe.com/id/urn:aaid:sc:AP:de451fd0-7190-4bfa-bbb6-53a5e73b171d)
 2. [Original Paper on Neural Style Transfer](https://acrobat.adobe.com/id/urn:aaid:sc:AP:e8273893-6068-4d2e-91cb-ef1a90583e23)
 3. [Visualizing and Understanding Conv Nets](https://acrobat.adobe.com/id/urn:aaid:sc:AP:d7d4b83c-393a-40fd-bb61-1ef54c79153a)
 4. [Visualize VGG model](https://www.youtube.com/watch?v=RNnKtNrsrmg&ab_channel=DenisDmitriev)
 
 ## Support
-For any queries regarding the NEAT or pygame implementation, contact me through my socials.
+For any queries regarding Neural Style Transfer or its implementation using streamlit, contact me through my socials.
 
