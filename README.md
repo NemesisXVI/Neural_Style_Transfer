@@ -100,11 +100,20 @@ Neural style transfer (NST) is an algorithmic technique used in computer vision 
    - The final output is a generated image that preserves the structure of the content image while adopting the artistic style captured from the style image.
 
 ## Results
-![alt text](images/Generated_Images/Dawn_Sky_masked.jpg) **Dawn Sky** 
+![alt text](images/Content_Images/Dawn Sky.jpg) 
+![alt text](images/Style_Images/starry_night.jpg)
+![alt text](images/Generated_Images/Dawn_Sky_masked.jpg)
+**Dawn Sky** 
+![alt text](images/Content_Images/winter-wolf.jpg)
+![alt text](images/Style_Images/metals/silver_plate.jpg)
 ![alt text](images/Generated_Images/WinterWolf-Masked.jpg)
 **Winter Wolf**
+![alt text](images/Content_Images/blue-moon-lake.jpg)
+![alt text](images/Style_Images/red-canna.jpg)
 ![alt text](images/Generated_Images/blue_moon_lake_1-1_at_iteration_50.jpg)
 **Blue Moon Lake**
+![alt text](images/Content_Images/ancient_city.jpg)
+![alt text](images/Style_Images/blue_swirls.jpg)
 ![alt text](images/Generated_Images/ancient_city_multiscale.jpg)
 **Ancient City**
 
